@@ -186,4 +186,4 @@ func ProcessInput(selpg *selpgArgs) {
 ```
 ## 4.程序测试
 ![](https://github.com/liuhq7/ServiceComputer-Selpg/blob/master/E%5DHN85D%7D%7D%5D%7BHG_BPOB6%40E%60I.png)</br>
-![](https://github.com/liuhq7/ServiceComputer-Selpg/blob/master/BF%24FVX)%241MFI%5B%7B4L%40%7DT%606X5.png)</br>
+![](https://github.com/liuhq7/ServiceComputer-Selpg/blob/master/BF%24FVX%241MFI%5B%7B4L%40%7DT%606X5.png)</br>

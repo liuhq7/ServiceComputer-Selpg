@@ -187,3 +187,5 @@ func ProcessInput(selpg *selpgArgs) {
 ## 4.程序测试
 ![](https://github.com/liuhq7/ServiceComputer-Selpg/blob/master/S3OU%60X9LEN8%7B6%7DWN%40EBYO3B.png)</br>
 ![](https://github.com/liuhq7/ServiceComputer-Selpg/blob/master/BF%24FVX%241MFI%5B%7B4L%40%7DT%606X5.png)</br>
+剩余车市不一一贴图了，命令均在Selpg -h中有写出。</br>
+

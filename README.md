@@ -4,9 +4,9 @@
 ## 2.实验准备
 ### 2.1.安装和导入pflag
 使用go get命令来安装pflag包。</br>
-![]()
+![](https://github.com/liuhq7/ServiceComputer-Selpg/blob/master/png1.png)</br>
 我们通过go test来确认是否导入文件包。</br>
-![]()
+![](https://github.com/liuhq7/ServiceComputer-Selpg/blob/master/png2.png)</br>
 这样我们就可以在代码中导入我们想要的关于pflag的包了。flag和pflag都是源自于Google，工作原理甚至代码实现基本上都是一样的。flag虽然是Golang官方的命令行参数解析库，但是pflag却得到更加广泛的应用，因为支持更精细的变量类型和更丰富的功能。</br>
 ### 2.2.引入所需要的包
 ```go
